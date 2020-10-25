@@ -85,5 +85,5 @@ Java Lambda expressions challenges
 	 /**
 	  * Challenge 10:
 	  * Instead of printing out the sorted names(challenge 9),
-         * Print out how many names start with the letter 'A'
+          * Print out how many names start with the letter 'A'
 	  */    
