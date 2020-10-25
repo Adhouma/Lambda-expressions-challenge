@@ -82,8 +82,8 @@ Java Lambda expressions challenges
 	  * Use Lambda expressions and Stream operations wherever possible
 	  */
 	  
-    		/**
-		 * Challenge 10:
-		 * Instead of printing out the sorted names(challenge 9),
-		 * Print out how many names start with the letter 'A'
-		 */
+    	 /**
+	  * Challenge 10:
+	  * Instead of printing out the sorted names(challenge 9),
+	  * Print out how many names start with the letter 'A'
+	  */
