@@ -76,14 +76,14 @@ Java Lambda expressions challenges
 	 */
    
 	 /**
-		* Challenge 9:
-		* Suppose we have the following list of the top 5 male and female names for 2015,
-		* Write code to print the items in the list in sorted order, and with the first letter in each name upper-cased
-		* Use Lambda expressions and Stream operations wherever possible
-		*/
+	  * Challenge 9:
+	  * Suppose we have the following list of the top 5 male and female names for 2015,
+	  * Write code to print the items in the list in sorted order, and with the first letter in each name upper-cased
+	  * Use Lambda expressions and Stream operations wherever possible
+	  */
     
 	 /**
-		* Challenge 10:
-		* Instead of printing out the sorted names(challenge 9),
-		* Print out how many names start with the letter 'A'
-		*/    
+	  * Challenge 10:
+	  * Instead of printing out the sorted names(challenge 9),
+          * Print out how many names start with the letter 'A'
+	  */    
